@@ -4,7 +4,7 @@ from discord.ext import commands
 from youtube_dl import YoutubeDL
 
 config = {
-          'token': 'MTA4NzMyNjQ5MzE1MzE2OTQ3OA.GR-NUa.j_QJX-EchDSMcYBFRLtLMvq2HKSC-1yvmTD2Yw',
+          'token': '',
           'prefix': '$',
          }
 YDL_OPTIONS={'format': 'worstaudio/best', 'noplaylist': 'False', 'simulate': 'True', 'key': 'FFmpegExtractAudio' }
